@@ -11,7 +11,7 @@ import {
 const Footer = () => {
   return (
     <footer>
-      <a href="#" className="footer-logo">
+      <a href="#header" className="footer-logo">
         3lyHassan
       </a>
       <ul className="permalinks">
