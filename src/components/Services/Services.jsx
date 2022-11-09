@@ -15,23 +15,34 @@ const Services = () => {
           <ul className="service-list">
             <li>
               <BiCheck></BiCheck>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit</p>
+              <p>
+                Building and shipping robust apps to Android/ iOS devices using
+                a single codebase.
+              </p>
             </li>
             <li>
               <BiCheck></BiCheck>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit</p>
+              <p>
+                Writing readable and clear code using Dart that will be
+                extensively documented for future use and upgrades.
+              </p>
             </li>
             <li>
               <BiCheck></BiCheck>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit</p>
+              <p>
+                Transform the business requirements into feature specifications;
+              </p>
             </li>
             <li>
               <BiCheck></BiCheck>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit</p>
+              <p>
+                Design and develop high-volume, low-latency applications and
+                deliver high availability and performance.
+              </p>
             </li>
             <li>
               <BiCheck></BiCheck>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit</p>
+              <p>Ensure designs are in compliance with specifications</p>
             </li>
           </ul>
         </article>
@@ -42,23 +53,23 @@ const Services = () => {
           <ul className="service-list">
             <li>
               <BiCheck></BiCheck>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit</p>
+              <p>Determining the structure and design of web pages.</p>
             </li>
             <li>
               <BiCheck></BiCheck>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit</p>
+              <p>Ensuring user experience determines design choices.</p>
             </li>
             <li>
               <BiCheck></BiCheck>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit</p>
+              <p>Ensuring web design is optimized for smartphones.</p>
             </li>
             <li>
               <BiCheck></BiCheck>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit</p>
+              <p>Optimizing web pages for maximum speed and scalability.</p>
             </li>
             <li>
               <BiCheck></BiCheck>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit</p>
+              <p>Utilizing a variety of markup languages to write web pages.</p>
             </li>
           </ul>
         </article>

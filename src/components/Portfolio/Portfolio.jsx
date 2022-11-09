@@ -16,12 +16,22 @@ const Portfolio = () => {
           <div className="portfolio-item-img">
             <img src={img2} alt="project-1" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Oranos Experts</h3>
           <div className="cta">
-            <a href="" className="btn" target="_blank">
+            <a
+              href="https://github.com/3ly-Hassan/Oranos"
+              className="btn"
+              target="_blank"
+              rel="noreferrer"
+            >
               Github
             </a>
-            <a href="" className="btn btn-primary" target="_blank">
+            <a
+              href="https://drive.google.com/file/d/1M6hIxRtfW90hPgvIBHDt-_yCpBQhCc-p/view?usp=sharing"
+              className="btn btn-primary"
+              target="_blank"
+              rel="noreferrer"
+            >
               Live Demo
             </a>
           </div>
@@ -30,12 +40,22 @@ const Portfolio = () => {
           <div className="portfolio-item-img">
             <img src={img1} alt="project-1" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Electronics Shop</h3>
           <div className="cta">
-            <a href="" className="btn" target="_blank">
+            <a
+              href="https://github.com/3ly-Hassan/Electronics_Shop_MagdSoft"
+              className="btn"
+              target="_blank"
+              rel="noreferrer"
+            >
               Github
             </a>
-            <a href="" className="btn btn-primary" target="_blank">
+            <a
+              href="https://drive.google.com/file/d/1M-jU2VFRhBgue1COoWBPLjUZC_PI5Mzn/view?usp=sharing"
+              className="btn btn-primary"
+              target="_blank"
+              rel="noreferrer"
+            >
               Live Demo
             </a>
           </div>
@@ -44,12 +64,22 @@ const Portfolio = () => {
           <div className="portfolio-item-img">
             <img src={img3} alt="project-1" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Kayan Medical</h3>
           <div className="cta">
-            <a href="" className="btn" target="_blank">
+            <a
+              href="https://github.com/3ly-Hassan/Kayan-Medical"
+              className="btn"
+              target="_blank"
+              rel="noreferrer"
+            >
               Github
             </a>
-            <a href="" className="btn btn-primary" target="_blank">
+            <a
+              href="https://drive.google.com/file/d/1M4HAf9J4zaXO7PLeskgpZSY1wLz4RYfH/view?usp=sharing"
+              className="btn btn-primary"
+              target="_blank"
+              rel="noreferrer"
+            >
               Live Demo
             </a>
           </div>
@@ -58,12 +88,17 @@ const Portfolio = () => {
           <div className="portfolio-item-img">
             <img src={img4} alt="project-1" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>هنعرفّك</h3>
           <div className="cta">
-            <a href="" className="btn" target="_blank">
+            {/* <a href="" className="btn" target="_blank">
               Github
-            </a>
-            <a href="" className="btn btn-primary" target="_blank">
+            </a> */}
+            <a
+              href="https://drive.google.com/file/d/1LvnVGTiyNvN-WYfz_irT-s_TUSsAoxcn/view?usp=sharing"
+              className="btn btn-primary"
+              target="_blank"
+              rel="noreferrer"
+            >
               Live Demo
             </a>
           </div>
@@ -72,12 +107,22 @@ const Portfolio = () => {
           <div className="portfolio-item-img">
             <img src={img5} alt="project-1" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>ToDo App </h3>
           <div className="cta">
-            <a href="" className="btn" target="_blank">
+            <a
+              href="https://github.com/3ly-Hassan/ProMinaTask"
+              className="btn"
+              target="_blank"
+              rel="noreferrer"
+            >
               Github
             </a>
-            <a href="" className="btn btn-primary" target="_blank">
+            <a
+              href="https://drive.google.com/file/d/1l3a8uLwQGuA3NlRKVviOtxsikfLhVIZa/view?usp=sharing"
+              className="btn btn-primary"
+              target="_blank"
+              rel="noreferrer"
+            >
               Live Demo
             </a>
           </div>

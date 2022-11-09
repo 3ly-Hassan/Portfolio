@@ -25,12 +25,12 @@ const About = () => {
             <article className="about-card" data-aos="fade-up">
               <FaAward className="about-icon"></FaAward>
               <h5>Experience</h5>
-              <small>3+ Years</small>
+              <small>2+ Years</small>
             </article>
             <article className="about-card" data-aos="fade-up">
               <FiUsers className="about-icon"></FiUsers>
               <h5>Clients</h5>
-              <small>200+ Worldwie</small>
+              <small>50+ Worldwie</small>
             </article>
             <article className="about-card" data-aos="fade-up">
               <VscFolderLibrary className="about-icon"></VscFolderLibrary>
@@ -39,10 +39,11 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dicta quis
-            corrupti debitis animi quisquam asperiores magnam similique earum at
-            sapiente, nobis provident vel quasi esse consequatur minima ut
-            recusandae rerum.
+            Enthusiastic computer engineering graduate with good knowledge in
+            coding and design. Proficient in HTML, CSS, JavaScript, Bootstrap,
+            React.js, Dart, Flutter, Java, Python and DB(SQL - NoSQL). Ability
+            to learn new software and technologies quickly. Capability to work
+            in teams by providing valuable support.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
