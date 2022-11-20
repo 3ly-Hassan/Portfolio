@@ -1,10 +1,11 @@
 import React from "react";
 import "./portfolio.css";
-import img1 from "../../assets/portfolio-1.jpg";
+//import img1 from "../../assets/portfolio-1.jpg";
 import img2 from "../../assets/portfolio-2.jpg";
 import img3 from "../../assets/portfolio-3.jpg";
 import img4 from "../../assets/portfolio-4.jpg";
 import img5 from "../../assets/portfolio-5.jpg";
+import img6 from "../../assets/portfolio-6.jpg";
 
 const Portfolio = () => {
   return (
@@ -36,7 +37,7 @@ const Portfolio = () => {
             </a>
           </div>
         </article>
-        <article className="portfolio-item">
+        {/* <article className="portfolio-item">
           <div className="portfolio-item-img">
             <img src={img1} alt="project-1" />
           </div>
@@ -58,6 +59,30 @@ const Portfolio = () => {
             >
               Live Demo
             </a>
+          </div>
+        </article> */}
+        <article className="portfolio-item">
+          <div className="portfolio-item-img">
+            <img src={img6} alt="project-1" />
+          </div>
+          <h3>Instgram Clone</h3>
+          <div className="cta">
+            <a
+              href="https://github.com/3ly-Hassan/Instgram-clone"
+              className="btn"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Github
+            </a>
+            {/* <a
+              href="https://drive.google.com/file/d/1M4HAf9J4zaXO7PLeskgpZSY1wLz4RYfH/view?usp=sharing"
+              className="btn btn-primary"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Live Demo
+            </a> */}
           </div>
         </article>
         <article className="portfolio-item">
