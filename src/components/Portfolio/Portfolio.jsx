@@ -1,6 +1,6 @@
 import React from "react";
 import "./portfolio.css";
-//import img1 from "../../assets/portfolio-1.jpg";
+import img1 from "../../assets/portfolio-1.jpg";
 import img2 from "../../assets/portfolio-2.jpg";
 import img3 from "../../assets/portfolio-3.jpg";
 import img4 from "../../assets/portfolio-4.jpg";
@@ -37,7 +37,7 @@ const Portfolio = () => {
             </a>
           </div>
         </article>
-        {/* <article className="portfolio-item">
+        <article className="portfolio-item">
           <div className="portfolio-item-img">
             <img src={img1} alt="project-1" />
           </div>
@@ -60,7 +60,7 @@ const Portfolio = () => {
               Live Demo
             </a>
           </div>
-        </article> */}
+        </article>
         <article className="portfolio-item">
           <div className="portfolio-item-img">
             <img src={img6} alt="project-1" />
